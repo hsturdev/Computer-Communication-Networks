@@ -3,9 +3,9 @@
 int main(int argc, char *argv[])
 {
     //configure the database infor
-    string user = "tliaws";
-    string passwd = "WYYXHTF1314520++";
-    string databasename = "webserver";
+    string user = "xxx";
+    string passwd = "xxxxxxx";
+    string databasename = "xxxxx";
 
     // handle the user input when start program
     Config config;
