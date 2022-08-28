@@ -1,5 +1,5 @@
 # C++ Based Server
-This project was inspired by one of my college course and [@qinguoyi](https://github.com/qinguoyi/TinyWebServer). On my college course, I implemented a [HTTP web server](https://github.com/tlistudents/Computer-Communication-Networks) and study the computer network, this project helps me get a better understanding of computer communication and socket programming.
+This project was inspired by one of my college course and [@qinguoyi](https://github.com/qinguoyi/TinyWebServer). On my college course, I implemented a [HTTP web server](https://github.com/tlistudents/Computer-Communication-Networks/tree/main/http%20downloader%20and%20web%20server) and study the computer network, this project helps me get a better understanding of computer communication and socket programming.
 You can find my other Computer Communication Network related projects [here](https://github.com/tlistudents/Computer-Communication-Networks).
 
 * Function Intro 
